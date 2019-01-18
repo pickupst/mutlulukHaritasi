@@ -22,7 +22,7 @@ class Button extends Component {
 
 const styles = {
     buttonStyle: {
-        width: width * 0.71,
+        width: width * 0.70,
         height: height * 0.07,
         backgroundColor: '#53008C',
         marginTop: 10,
